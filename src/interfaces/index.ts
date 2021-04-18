@@ -6,3 +6,4 @@ export { IRepositoryFactory } from './IRepositoryFactory';
 export { IUnitOfWork, IUnitOfWorkOptions } from './IUnitOfWork';
 export { IWrite } from './IWrite';
 export { ICache } from './ICache';
+export { IAuditable } from './IAuditable';
